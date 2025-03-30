@@ -10,10 +10,10 @@
 
 ### 🚀 What I'm Up To
 
-- 🌐 Currently diving deeper into backend development and system design
-- 🧠 Learning advanced data structures and algorithms
-- 💬 Collaborating on academic and personal coding projects
-- 🔧 Building side projects using Kotlin, Java, and web tech
+- 🌐 Currently diving deeper into backend development and system design  
+- 🧠 Learning advanced data structures and algorithms  
+- 💬 Collaborating on academic and personal coding projects  
+- 🔧 Building side projects using Kotlin, Java, and web tech  
 
 ---
 
@@ -27,25 +27,24 @@
 
 ### 💻 I Code In
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/kotlin.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+<img height="40" src="https://img.icons8.com/color/48/000000/kotlin.png" />
+&nbsp;<img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+&nbsp;<img height="40" src="https://img.icons8.com/color/48/000000/python.png" />
+&nbsp;<img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+&nbsp;<img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" />
+&nbsp;<img height="40" src="https://img.icons8.com/color/48/000000/php.png" />
+&nbsp;<img height="40" src="https://img.icons8.com/color/48/000000/react-native.png" />
+&nbsp;<img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+&nbsp;<img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+&nbsp;<img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" />
+&nbsp;<img height="40" src="https://img.icons8.com/color/48/000000/css3.png" />
 
 ---
 
 ### 🛠️ Tools & IDEs I Use
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/eclipse.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+&nbsp;<img height="40" src="https://img.icons8.com/color/48/000000/pycharm.png" />
 
 ---
 
