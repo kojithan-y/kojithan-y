@@ -2,20 +2,12 @@
 
 🎓 3rd Year Undergraduate IT Student at **SLIIT University**  
 💻 Specializing in **Software Engineering**  
-🌱 Passionate about clean code, full-stack development, and constantly exploring new technologies!
+🚀 AI Enthusiast | Passionate About Collaborating with Professionals to Drive Digital Business Growth!
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
 
 ---
 
-### 🚀 What I'm Up To
-
-- 🌐 Currently diving deeper into backend development and system design  
-- 🧠 Learning advanced data structures and algorithms  
-- 💬 Collaborating on academic and personal coding projects  
-- 🔧 Building side projects using Kotlin, Java, and web tech  
-
----
 
 ### 📲 Contact Me
 
