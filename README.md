@@ -17,10 +17,11 @@
 
 ---
 
-### 📲 Social Presence
+### 📲 Contact Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/your-linkedin-here)  
-[<img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/your-instagram-here)
+- 📞 **Phone**: +94-779108836  
+- 📧 **Email**: kojithan.y@gmail.com  
+- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kojithan-y)
 
 ---
 
@@ -45,28 +46,6 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/eclipse.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-
----
-
-### 💻 Workspace Specs
-
-<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-
----
-
-### 📊 GitHub Stats
-
-![Kojithan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=radical&show_icons=true&hide=contribs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/your-github-username)
-
----
-
-### 🔥 Activity Graph
-
-[![Kojithan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&bg_color=0d1117&color=ffffff&line=00b894&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
