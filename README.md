@@ -27,30 +27,34 @@
 
 ### 💻 I Code In
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/kotlin.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+<p>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" height="40"/>
+</p>
 
 ---
 
 ### 🛠️ Tools & IDEs I Use
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/eclipse.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+<p>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/eclipse.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" height="40"/>
+  <img src="https://img.icons8.com/color/50/000000/git.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" height="40"/>
+</p>
 
 ---
 
